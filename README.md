@@ -1,7 +1,6 @@
 # Modelando um Dasboard de E-commerce com Power BI Utilizando Fórmulas DAX
 
-### Repositório desenvolvido para fins de mostrar o que foi aprendido no Power BI, e fazer entrega do desafio do projeto DIO.
-### Criação das novas tabelas (D_Produtos, D_Produtos_Detalhes, D_Descontos, D_Detalhes, F_Vendas) a partir de tabela origem financials. A partir da duplicidade da tabela origem Financials fiz a criação das colunas ID_ product e Índice.
+Criação das novas tabelas (D_Produtos, D_Produtos_Detalhes, D_Descontos, D_Detalhes, F_Vendas) a partir de tabela origem financials. A partir da duplicidade da tabela origem Financials fiz a criação das colunas ID_ product e Índice.
 A construção de ID_product foi feita no Power query através do adicionar coluna Condicional colocando o nome da coluna para cada produto e uma numeração para cada um deles, logo foram retirados os valores duplicados.
 
 A construção da tabela ID_product foi feita no Power query através da criação do índice. 
